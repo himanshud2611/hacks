@@ -1,0 +1,69 @@
+{
+  "A": [
+    {
+      "answer": "29093",
+      "expected": "29093",
+      "correct": true,
+      "time": 50.442992210388184,
+      "iterations": 4,
+      "tokens": 3377,
+      "position": 0.1
+    },
+    {
+      "answer": "88341",
+      "expected": "88341",
+      "correct": true,
+      "time": 158.83186721801758,
+      "iterations": 7,
+      "tokens": 339556,
+      "position": 0.3
+    },
+    {
+      "answer": "70503",
+      "expected": "70503",
+      "correct": true,
+      "time": 252.61521553993225,
+      "iterations": 8,
+      "tokens": 613278,
+      "position": 0.5
+    },
+    {
+      "answer": "31786",
+      "expected": "31786",
+      "correct": true,
+      "time": 127.65403485298157,
+      "iterations": 2,
+      "tokens": 149746,
+      "position": 0.7
+    },
+    {
+      "answer": "91800",
+      "expected": "91800",
+      "correct": true,
+      "time": 40.291627168655396,
+      "iterations": 4,
+      "tokens": 4329,
+      "position": 0.9
+    }
+  ],
+  "B": [
+    {
+      "answer": "9",
+      "expected": "93810",
+      "correct": false,
+      "time": 313.09709191322327,
+      "iterations": 6,
+      "tokens": 130250,
+      "format": "random"
+    },
+    {
+      "answer": "The `context` variable contains a large JSON string. The previous attempts to access the `value` key resulted in a `KeyError` during execution, likely due to the environment's state or how the `data` ",
+      "expected": "42857",
+      "correct": false,
+      "time": 188.85122299194336,
+      "iterations": 10,
+      "tokens": 49452,
+      "format": "json"
+    }
+  ]
+}

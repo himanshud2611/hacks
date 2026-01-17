@@ -1,0 +1,31 @@
+{
+  "C": [
+    {
+      "answer": "ALPHA7",
+      "expected": "ALPHA7",
+      "correct": true,
+      "time": 231.6472020149231,
+      "iterations": 5,
+      "tokens": 99230,
+      "needle": "secret_code"
+    },
+    {
+      "answer": "98765",
+      "expected": "98765",
+      "correct": true,
+      "time": 45.667563676834106,
+      "iterations": 5,
+      "tokens": 4232,
+      "needle": "magic_number"
+    },
+    {
+      "answer": "hunter2",
+      "expected": "hunter2",
+      "correct": true,
+      "time": 52.46748757362366,
+      "iterations": 4,
+      "tokens": 49767,
+      "needle": "password"
+    }
+  ]
+}

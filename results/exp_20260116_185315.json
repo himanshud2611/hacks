@@ -1,0 +1,22 @@
+{
+  "B": [
+    {
+      "answer": "93810",
+      "expected": "93810",
+      "correct": true,
+      "time": 62.62078785896301,
+      "iterations": 3,
+      "tokens": 51480,
+      "format": "random"
+    },
+    {
+      "answer": "998",
+      "expected": "42857",
+      "correct": false,
+      "time": 93.99211692810059,
+      "iterations": 9,
+      "tokens": 9510,
+      "format": "json"
+    }
+  ]
+}

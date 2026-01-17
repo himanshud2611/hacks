@@ -1,0 +1,31 @@
+{
+  "F": [
+    {
+      "answer": "Diana owns the most dogs with 7 dogs.",
+      "expected": "diana",
+      "correct": true,
+      "time": 145.22575688362122,
+      "iterations": 7,
+      "tokens": 10738,
+      "hops": "1-hop"
+    },
+    {
+      "answer": "purple",
+      "expected": "purple",
+      "correct": true,
+      "time": 119.34690642356873,
+      "iterations": 6,
+      "tokens": 7110,
+      "hops": "1-hop"
+    },
+    {
+      "answer": "purple",
+      "expected": "purple",
+      "correct": true,
+      "time": 189.35134744644165,
+      "iterations": 6,
+      "tokens": 7704,
+      "hops": "2-hop"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "A": [
+    {
+      "answer": "29093",
+      "expected": "29093",
+      "correct": true,
+      "time": 90.50719380378723,
+      "iterations": 4,
+      "tokens": 180651,
+      "position": 0.1
+    },
+    {
+      "answer": "88341",
+      "expected": "88341",
+      "correct": true,
+      "time": 17.990097522735596,
+      "iterations": 3,
+      "tokens": 2882,
+      "position": 0.3
+    },
+    {
+      "answer": "70503",
+      "expected": "70503",
+      "correct": true,
+      "time": 32.70514512062073,
+      "iterations": 4,
+      "tokens": 2281,
+      "position": 0.5
+    },
+    {
+      "answer": "31786",
+      "expected": "31786",
+      "correct": true,
+      "time": 41.11846923828125,
+      "iterations": 4,
+      "tokens": 3339,
+      "position": 0.7
+    },
+    {
+      "answer": "42",
+      "expected": "91800",
+      "correct": false,
+      "time": 311.97300243377686,
+      "iterations": 4,
+      "tokens": 299738,
+      "position": 0.9
+    }
+  ]
+}
